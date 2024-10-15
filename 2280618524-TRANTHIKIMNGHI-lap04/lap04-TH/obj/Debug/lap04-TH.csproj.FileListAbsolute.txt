@@ -1,0 +1,17 @@
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\bin\Debug\lap04-TH.exe.config
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\bin\Debug\lap04-TH.exe
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\bin\Debug\lap04-TH.pdb
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\obj\Debug\lap04-TH.csproj.AssemblyReference.cache
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\obj\Debug\lap04_TH.Form1.resources
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\obj\Debug\lap04_TH.Properties.Resources.resources
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\obj\Debug\lap04-TH.csproj.GenerateResource.cache
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\obj\Debug\lap04-TH.csproj.CoreCompileInputs.cache
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\obj\Debug\lap04-TH.exe
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\obj\Debug\lap04-TH.pdb
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\bin\Debug\EntityFramework.dll
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\bin\Debug\EntityFramework.xml
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\obj\Debug\lap04-TH.csproj.Up2Date
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\obj\Debug\lap04_TH.Form2.resources
+C:\Users\Kim Nghi\source\repos\2280618524-TRANTHIKIMNGHI-lap04\lap04-TH\obj\Debug\lap04_TH.Form3.resources
